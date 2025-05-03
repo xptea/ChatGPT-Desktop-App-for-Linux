@@ -7,7 +7,6 @@ A simple, native ChatGPT desktop app for Linux by VoidWorks.xyz
 ## 🚀 Features
 
 - Native desktop interface for ChatGPT
-- Clean, minimal UI
 - Cross-distro support: `.deb`, `.rpm`, and `.AppImage` available
 
 ---
