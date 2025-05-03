@@ -1,7 +1,61 @@
-# Tauri + Vanilla TS
+# ChatGPT Desktop for Linux
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
+A simple, native ChatGPT desktop app for Linux by VoidWorks.xyz
 
-## Recommended IDE Setup
+---
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## 🚀 Features
+
+- Native desktop interface for ChatGPT
+- Clean, minimal UI
+- Cross-distro support: `.deb`, `.rpm`, and `.AppImage` available
+
+---
+
+## 🐧 Downloads
+
+Head to the [Releases](https://github.com/your-username/your-repo/releases) page to get the latest version.
+
+### Installation Options (v0.1.0)
+
+#### 🔵 Debian/Ubuntu-based (Debian, Ubuntu, Mint, Pop!_OS)
+```bash
+sudo dpkg -i chatgpt_0.1.0_amd64.deb
+```
+
+#### 🔴 Red Hat-based (Fedora, RHEL, CentOS, openSUSE)
+```bash
+sudo rpm -i chatgpt-0.1.0-1.x86_64.rpm
+```
+
+#### 🟡 Portable (All Linux distros)
+```bash
+chmod +x chatgpt_0.1.0_amd64.AppImage
+./chatgpt_0.1.0_amd64.AppImage
+```
+
+---
+
+## 📸 Screenshots
+
+*(Add screenshots here if available)*
+
+---
+
+## 🛠️ Building From Source
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+
+# Install dependencies and build (example for Node.js projects)
+npm install
+npm run build
+```
+
+---
+
+## 📄 License
+
+MIT License © 2025 Your Name
