@@ -13,7 +13,7 @@ A simple, native ChatGPT desktop app for Linux by VoidWorks.xyz
 
 ## 🐧 Downloads
 
-Head to the [Releases](https://github.com/your-username/your-repo/releases) page to get the latest version.
+Head to the [Releases](https://github.com/xptea/ChatGPT-Desktop-App-for-Linux/releases) page to get the latest version.
 
 ### Installation Options (v0.1.0)
 
