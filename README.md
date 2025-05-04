@@ -32,29 +32,3 @@ sudo rpm -i chatgpt-0.1.0-1.x86_64.rpm
 chmod +x chatgpt_0.1.0_amd64.AppImage
 ./chatgpt_0.1.0_amd64.AppImage
 ```
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here if available)*
-
----
-
-## 🛠️ Building From Source
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-
-# Install dependencies and build (example for Node.js projects)
-npm install
-npm run build
-```
-
----
-
-## 📄 License
-
-MIT License © 2025 Your Name
